@@ -1,8 +1,4 @@
 
-[![Explore, star, comment, fork](https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=300&size=18&color=E95420&multiline=true&random=false&width=435&lines=Feel+free+to+explore%2C+star%2C+clone;fork+and+comment+my+repos+%26+gists)](https://git.io/typing-svg)
-
----
-
 ### Hi there, I'm Lukas, whats good! 👋
 
 - 🔭 I’m currently working as a **Vocational Education and Training (VET) Instructor** *(called CFGS or FP2 in Spain)*, uni **teacher** and as a **freelance** data engineer
@@ -12,20 +8,3 @@
 - :video_game: I'm thrilled to learn [MakeCode Arcade](https://arcade.makecode.com/ "MakeCode Arcade") and Android programming
 - 💬 Ask me about [SQL](https://github.com/raimonizard/SQL "SQL personal repo for teaching purposes"), [Java](https://github.com/raimonizard/java "Java personal repo for teaching purposes") or whatever :P
 
----
-[![Raimon's GitHub stats](https://github-readme-stats.vercel.app/api?username=raimonizard)](https://github.com/anuraghazra/github-readme-stats) <img align="right" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimonizard&layout=compact" />
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=raimonizard&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
----
-
->[!NOTE]
->📫 You can reach me at: [https://es.linkedin.com/in/raimonizard](https://es.linkedin.com/in/raimonizard "Linkedin Profile") & [http://rai.cat/](http://rai.cat/ "Personal webpage")
-
----
-
-  ![Gif power!](https://cdn3.whatculture.com/images/2015/01/arcades.gif "An animated gif")
