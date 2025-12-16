@@ -10,4 +10,4 @@ My likes:
 Knowledge in:
 - Kotlin
 
-From Lithuania :flag_lt:
+From Lithuania 🇱🇹
