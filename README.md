@@ -9,3 +9,5 @@ My likes:
 
 Knowledge in:
 - Kotlin
+
+From Lithuania 🇱🇹
