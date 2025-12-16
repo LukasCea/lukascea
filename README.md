@@ -1,6 +1,11 @@
-Estuden of ITB
+ITB student of Web Application Development (DAW).
 
+Apprentice programmer.
+With great interest in learning and further developing my abilities.
 
-![patricio](https://github.com/user-attachments/assets/3b8388e1-821a-4f5a-9095-abcd64c789a7)
+My likes: 
+- The cars
+- Video games (such as: The Last of Us, Ghost of Tsushima, many shooters, Minecraft, Fall Outs, among many more.
 
-![jack](https://github.com/user-attachments/assets/ff54a8a8-e928-4048-8522-bd25539d7517)
+Knowledge in:
+- Kotlin
