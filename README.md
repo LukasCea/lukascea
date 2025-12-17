@@ -12,3 +12,10 @@ Knowledge in:
 - Kotlin
 
 From Lithuania 🇱🇹
+
+Languages ​​I speak:
+- Lithuanian🇱🇹 (native)
+- Spanish🇪🇸 (C2)
+- English🇬🇧 (B1)
+- Catalan (C1)
+- Russian (learning...)
