@@ -3,6 +3,7 @@ ITB student of Web Application Development (DAW). <img width="30" height="37" al
 
 Apprentice programmer.
 With great interest in learning and further developing my abilities.
+I've ADHD 🧠
 
 My likes: 
 - The cars
@@ -10,6 +11,7 @@ My likes:
 
 Knowledge in:
 - Kotlin
+- JavaScript
 
 From Lithuania 🇱🇹
 
