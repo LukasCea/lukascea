@@ -9,11 +9,12 @@ I've ADHD 🧠
 
 My likes: 
 - The cars
-- Video games (such as: The Last of Us, Ghost of Tsushima, many shooters, Minecraft, Fall Outs and many more.
+- Video games (such as: The Last of Us, Ghost of Tsushima, many shooters, Minecraft, Fall Outs and many more.)
 
 Knowledge in:
 - Kotlin
 - JavaScript
+- HTML and CSS
 
 From Lithuania 🇱🇹
 
