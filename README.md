@@ -14,6 +14,7 @@ My likes:
 Knowledge in:
 - Kotlin
 - JavaScript
+- PHP
 - HTML and CSS
 
 From Lithuania 🇱🇹
